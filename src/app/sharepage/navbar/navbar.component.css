@@ -1,9 +1,0 @@
-a:hover{
-    color: var(--primary-color);
-    font-weight: bold;
-    text-decoration:underline;
-    
-}
-a:active{
-    color:blue;
-}
